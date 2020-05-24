@@ -6,7 +6,8 @@ Transparency is our competetive advantage.
 
 We would like to invite legal experts in Estonia to advise on the process.
 
-Currently we identified a number of [issues](https://github.com/basexisland/legal/issues). Github account is required to comment:
+Currently we identified a number of [issues](https://github.com/basexisland/legal/issues). Github account is required to comment. If creating Github account is an obstacle, then our email address is `info` `basexisland` `com` 💌
+
 1. [Reasons for Estonia](https://github.com/basexisland/legal/issues/1)
 2. [Financing the purchase - accepting money from investors](https://github.com/basexisland/legal/issues/2)
 3. [Protecting the investors](https://github.com/basexisland/legal/issues/3)
