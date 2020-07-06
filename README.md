@@ -1,3 +1,5 @@
+`2020-07-06` article on Medium funraising strategy update: https://medium.com/@basexisland/fundraising-strategy-incentives-3cb3e765624e
+
 # open-source and anti-fragile
 
 Transparency is our competetive advantage.
