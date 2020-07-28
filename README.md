@@ -1,4 +1,6 @@
-`2020-07-06` article on Medium funraising strategy update: https://medium.com/@basexisland/fundraising-strategy-incentives-3cb3e765624e
+`2020-07-06` article on Medium fundraising strategy update: https://medium.com/@basexisland/fundraising-strategy-incentives-3cb3e765624e
+
+`2020-07-26` article on Medium about the legal framework: https://medium.com/@basexisland/the-legal-framework-in-estonia-1cc705b7fb63
 
 # open-source and anti-fragile
 
